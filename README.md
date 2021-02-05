@@ -1,4 +1,4 @@
-# clouderaCertifiedUsefulLink
+# Useful Link
 
 [First Link](https://github.com/smartlin5228/CCA175)
 [Second Link](https://github.com/AleNegrini/CCA131-Required-Skills)
